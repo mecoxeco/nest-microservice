@@ -1,4 +1,3 @@
-// rabbitmq/rmq.module.ts
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { RmqService } from './rmq.service';
